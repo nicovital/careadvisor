@@ -15,7 +15,8 @@ Last Updated On July 11, 2022
 
 
 
-# Integration Plan
+# **Integration Plan**
+[INTPLAN]
 
 The ERAdvisor technical implementation process includes a number of stages for implementation, beginning with the kickoff call. Depending on the scope of data feeds for onboarding, the below plan will include additional testing and validation as required.
 
